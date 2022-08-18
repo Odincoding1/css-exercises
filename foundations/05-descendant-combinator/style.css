@@ -1,0 +1,14 @@
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.c2 .text {
+    background-color: green;
+}
+
+.c3 .text {
+    background-color: blue;
+}
